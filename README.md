@@ -1,6 +1,9 @@
 # UE5_ReflectionDemo
 Test 영상 링크: https://www.youtube.com/watch?v=-ce-ERjCjwc
 
+# 실행 방법
+- `git clone 레포지토리` 명령으로 레포지토리 클론
+- `UE5_ReflectionDemo.uproject` 실행(UE 5.0.3으로 작업함)
 
 # Planar Reflection
 적용 방법: 
@@ -13,7 +16,7 @@ Test 영상 링크: https://www.youtube.com/watch?v=-ce-ERjCjwc
 적용 방법: 
 - Screen Space Reflection 적용할 Actor 배치
 - Material설정(Metalic : 1 , roughness : 0, blend mode: truanslucent, screen space reflection : true, lighting mode: surface translucencyVolume)
-- 
+
 
 
 # Cubemap Reflection
